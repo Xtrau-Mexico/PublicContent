@@ -13,7 +13,7 @@ Realiza una orden de cualquier modelo de Xtrau.
 
 - Para iniciar sesión en tu cuenta: 
 
-Ve a https://www.xtrau.com.mx/id e inicia sesión introduciendo sus datos. Si olvidaste tu contraseña, da click en el botón "¿Olvidaste la contraseña?".
+Ve a https://www.xtrau.com.mx/id e inicia sesión introduciendo tus datos. Si olvidaste tu contraseña, da click en el botón "¿Olvidaste la contraseña?".
 
 
 
