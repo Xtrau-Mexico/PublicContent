@@ -12,7 +12,6 @@ owner: "operations"
 redirectFrom:
   - "soporte/pago-a-meses-en-xtrau"
 ---
-
 # Pago a Meses
 
 ##### Opciones de financiamiento disponibles
@@ -45,6 +44,8 @@ Las alternativas de financiamiento disponibles se mostrarán directamente durant
 * Los costos financieros, intereses y cargos aplicables serán mostrados por PayPal antes de finalizar la compra.
 * Xtrau no recibe ni determina las decisiones de aprobación o rechazo de financiamiento.
 
+---
+
 ##### Nuestra visión a futuro
 
 Estamos comprometidos con ofrecer una experiencia de compra cada vez más accesible.
@@ -52,6 +53,8 @@ Estamos comprometidos con ofrecer una experiencia de compra cada vez más accesi
 Conforme continuemos creciendo y ampliando nuestras capacidades operativas, evaluaremos la incorporación de programas adicionales de Meses Sin Intereses y otras alternativas de financiamiento que permitan brindar mayores beneficios a nuestros clientes.
 
 Cualquier nueva modalidad de financiamiento será anunciada oficialmente a través de nuestros canales de comunicación.
+
+---
 
 ##### ¿Tienes dudas?
 

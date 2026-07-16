@@ -13,7 +13,7 @@ redirectFrom:
   - "soporte/garantia"
 ---
 
-# Garantía
+# Garantía# Garantía
 
 ##### Garantía directa de 30 días
 
@@ -25,25 +25,53 @@ Si el equipo llega con daños, componentes faltantes, defectos de hardware verif
 * reemplazar componentes defectuosos
 * reemplazar parcial o totalmente el equipo
 
-Todo el proceso se realiza sin costo adicional para el cliente, siempre que el problema esté cubierto por la garantía. Esta cobertura aplica únicamente dentro de los primeros 30 días posteriores a la entrega.
+Todo el proceso se realiza sin costo adicional para el cliente, siempre que el problema esté cubierto por la garantía.
+
+Esta cobertura aplica únicamente dentro de los primeros 30 días posteriores a la entrega.
 
 ##### Exclusiones
 
-La garantía directa de 30 días no cubre daños causados por mal uso, golpes, caídas o accidentes, daños eléctricos externos, modificaciones o reparaciones no autorizadas, daños estéticos posteriores a la entrega ni desgaste normal de componentes consumibles.
+La garantía directa de 30 días no cubre:
+
+* daños causados por mal uso
+* golpes, caídas o accidentes
+* daños eléctricos externos
+* modificaciones o reparaciones no autorizadas
+* daños estéticos posteriores a la entrega
+* desgaste normal de componentes consumibles
+
+---
 
 ##### Garantía limitada de 2 años
 
 Después de los primeros 30 días, el sistema continúa cubierto por una garantía limitada de hasta 2 años a partir de la fecha de entrega.
 
-Esta cobertura aplica exclusivamente a defectos de fabricación y fallas de hardware verificadas bajo uso normal. Durante este periodo, Xtrau actúa como intermediario y canal de soporte para ayudar al cliente a gestionar la garantía correspondiente con el fabricante del componente afectado.
+Esta cobertura aplica exclusivamente a defectos de fabricación y fallas de hardware verificadas bajo uso normal.
 
-Dependiendo del caso y de las políticas del fabricante, el componente podrá ser reparado por el fabricante, reemplazado por el fabricante, enviado directamente al cliente o gestionado a través de Xtrau. Los tiempos de resolución pueden variar según disponibilidad, diagnóstico y procesos del fabricante.
+Durante este periodo, Xtrau actúa como intermediario y canal de soporte para ayudar al cliente a gestionar la garantía correspondiente con el fabricante del componente afectado.
+
+Dependiendo del caso y de las políticas del fabricante, el componente podrá ser:
+
+* reparado por el fabricante
+* reemplazado por el fabricante
+* enviado directamente al cliente o gestionado a través de Xtrau
+
+Los tiempos de resolución pueden variar según disponibilidad, diagnóstico y procesos del fabricante.
 
 ##### Importante
 
-La garantía limitada de 2 años no incluye reemplazo completo del sistema, cambios por actualización de modelo, daños ocasionados por factores externos o uso indebido, software, configuraciones o pérdida de información, ni problemas derivados de modificaciones no autorizadas.
+La garantía limitada de 2 años no incluye:
+
+* reemplazo completo del sistema
+* cambios por actualización de modelo
+* daños ocasionados por factores externos o uso indebido
+* software, configuraciones o pérdida de información
+* problemas derivados de modificaciones no autorizadas
 
 Algunos componentes pueden contar con periodos de cobertura distintos dependiendo de las condiciones específicas de su fabricante.
+
+---
+
 
 ##### Cómo iniciar una solicitud de garantía
 
