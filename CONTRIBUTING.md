@@ -22,7 +22,7 @@ owner: "support"
 ---
 ```
 
-Production IDs should be UUIDs. They are stable identifiers, independent of the filename, title, and slug; never reuse an ID for a different article. Optional fields are `redirectFrom`, `productScope`, `tags`, `order`, and `featured`.
+Production IDs should be UUIDs. They are stable identifiers, independent of the filename, title, and slug; never reuse an ID for a different article. `lastReviewedAt` is required for published articles, but may remain absent from drafts awaiting factual or policy review. Other optional fields are `redirectFrom`, `productScope`, `tags`, `order`, and `featured`.
 
 Slugs and redirects use lowercase URL-safe segments with no leading slash. A slug must be globally unique. When changing a published slug, retain the old slug in `redirectFrom`; each redirect must be unique and cannot equal an active slug.
 
